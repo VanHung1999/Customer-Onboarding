@@ -1,6 +1,3 @@
-from abc import abstractmethod
-
-
 def yes_or_no(a):
     if a == "YES":
         return True
